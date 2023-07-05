@@ -1,0 +1,1 @@
+print ('Education is very important part of our life')
